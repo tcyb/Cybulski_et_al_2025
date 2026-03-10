@@ -175,3 +175,12 @@ cython_debug/
 
 # Data folder
 data/
+
+# Old/Aux Notebooks
+notebooks/06autogenes_2020_3173_w_sc.ipynb
+notebooks/Asc_geneset_analysis_nacfc.ipynb
+notebooks/Bsc_deg_genechecker.ipynb
+notebooks/Cbulk_reduced_gen.ipynb
+
+# snakefile
+snakefile_final
